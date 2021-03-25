@@ -1,0 +1,11 @@
+.item{
+    position: relative;
+}
+.logo{
+    background: url(../images/logo.jpg) no-repeat; 
+    height: 100vh;
+   position: absolute;
+   top: 20px;
+   left: 10px;
+    
+}
